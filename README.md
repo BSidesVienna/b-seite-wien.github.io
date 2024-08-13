@@ -117,33 +117,19 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das "Leitungsorgan" im Sinn
 3. Der Kassier ist für die ordnungsgemäße Geldgebarung des Vereins verantwortlich.
 
 ## § 14: Rechnungsprüferin/Rechnungsprüfer
-1. Zwei Rechnungsprüferinnen/Rechnungsprüfer werden von der Generalversammlung auf die Dauer von 1 Jahr gewählt. Wiederwahl ist möglich. Die Rechnungsprüferinnen/Rechnungsprüfer dürfen keinem Organ - mit Ausnahme der Generalversammlung - angehören, dessen Tätigkeit Gegenstand der Prüfung ist. Den Rechnungsprüferinnen/Rechnungsprüfern obliegt die laufende Geschäftskontrolle
-sowie die Prüfung der Finanzgebarung des Vereins im Hinblick auf die Ordnungsmäßigkeit
-der Rechnungslegung und die statutengemäße Verwendung der Mittel. Der Vorstand hat
-den Rechnungsprüferinnen/den Rechnungsprüfern die erforderlichen Unterlagen vorzulegen und die erforderlichen Auskünfte zu erteilen. Die Rechnungsprüferinnen/die Rechnungsprüfer haben dem Vorstand über das Ergebnis der Prüfung zu berichten.
-(3) Rechtsgeschäfte zwischen Rechnungsprüferinnen/Rechnungsprüfern und Verein bedürfen der Genehmigung durch die Generalversammlung. Im Übrigen gelten für die die Rechnungsprüferinnen/ Rechnungsprüfer die Bestimmungen des § 11 Abs. 8 bis 10 sinngemäß.
+1. Zwei Rechnungsprüferinnen/Rechnungsprüfer werden von der Generalversammlung auf die Dauer von 1 Jahr gewählt. Wiederwahl ist möglich. Die Rechnungsprüferinnen/Rechnungsprüfer dürfen keinem Organ - mit Ausnahme der Generalversammlung - angehören, dessen Tätigkeit Gegenstand der Prüfung ist.
+2. Den Rechnungsprüferinnen/Rechnungsprüfern obliegt die laufende Geschäftskontrolle sowie die Prüfung der Finanzgebarung des Vereins im Hinblick auf die Ordnungsmäßigkeit der Rechnungslegung und die statutengemäße Verwendung der Mittel. Der Vorstand hat den Rechnungsprüferinnen/den Rechnungsprüfern die erforderlichen Unterlagen vorzulegen und die erforderlichen Auskünfte zu erteilen. Die Rechnungsprüferinnen/die Rechnungsprüfer haben dem Vorstand über das Ergebnis der Prüfung zu berichten.
+3. Rechtsgeschäfte zwischen Rechnungsprüferinnen/Rechnungsprüfern und Verein bedürfen der Genehmigung durch die Generalversammlung. Im Übrigen gelten für die die Rechnungsprüferinnen/ Rechnungsprüfer die Bestimmungen des § 11 Abs. 8 bis 10 sinngemäß.
 
 ## § 15: Schiedsgericht
-(1) Zur Schlichtung von allen aus dem Vereinsverhältnis entstehenden Streitigkeiten ist das
-vereinsinterne Schiedsgericht berufen. Es ist eine "Schlichtungseinrichtung" im Sinne des
-Vereinsgesetzes 2002 und kein Schiedsgericht nach den §§ 577 ff ZPO.
-(2) Das Schiedsgericht setzt sich aus drei ordentlichen Vereinsmitgliedern zusammen. Es
-wird derart gebildet, dass ein Streitteil dem Vorstand ein Mitglied als Schiedsrichterin/
-Schiedsrichter schriftlich namhaft macht. Über Aufforderung durch den Vorstand binnen
-sieben Tagen macht der andere Streitteil innerhalb von 14 Tagen seinerseits ein Mitglied
-des Schiedsgerichts namhaft. Nach Verständigung durch den Vorstand innerhalb von sieben Tagen wählen die namhaft gemachten Schiedsrichterinnen/Schiedsrichter binnen weiterer 14 Tage ein drittes ordentliches Mitglied zum/zur Vorsitzenden des Schiedsgerichts.
-Bei Stimmengleichheit entscheidet unter den Vorgeschlagenen das Los. Die Mitglieder des
-Schiedsgerichts dürfen keinem Organ - mit Ausnahme der Generalversammlung - angehören, dessen Tätigkeit Gegenstand der Streitigkeit ist.
-(3) Das Schiedsgericht fällt seine Entscheidung nach Gewährung beiderseitigen Gehörs bei Anwesenheit aller seiner Mitglieder mit einfacher Stimmenmehrheit. Es entscheidet nach bestem Wissen und Gewissen. Seine Entscheidungen sind vereinsintern endgültig.
+1. Zur Schlichtung von allen aus dem Vereinsverhältnis entstehenden Streitigkeiten ist das vereinsinterne Schiedsgericht berufen. Es ist eine "Schlichtungseinrichtung" im Sinne des Vereinsgesetzes 2002 und kein Schiedsgericht nach den §§ 577 ff ZPO.
+2. Das Schiedsgericht setzt sich aus drei ordentlichen Vereinsmitgliedern zusammen. Es wird derart gebildet, dass ein Streitteil dem Vorstand ein Mitglied als Schiedsrichterin/Schiedsrichter schriftlich namhaft macht. Über Aufforderung durch den Vorstand binnen sieben Tagen macht der andere Streitteil innerhalb von 14 Tagen seinerseits ein Mitglied des Schiedsgerichts namhaft. Nach Verständigung durch den Vorstand innerhalb von sieben Tagen wählen die namhaft gemachten Schiedsrichterinnen/Schiedsrichter binnen weiterer 14 Tage ein drittes ordentliches Mitglied zum/zur Vorsitzenden des Schiedsgerichts. Bei Stimmengleichheit entscheidet unter den Vorgeschlagenen das Los. Die Mitglieder des Schiedsgerichts dürfen keinem Organ - mit Ausnahme der Generalversammlung - angehören, dessen Tätigkeit Gegenstand der Streitigkeit ist.
+3. Das Schiedsgericht fällt seine Entscheidung nach Gewährung beiderseitigen Gehörs bei Anwesenheit aller seiner Mitglieder mit einfacher Stimmenmehrheit. Es entscheidet nach bestem Wissen und Gewissen. Seine Entscheidungen sind vereinsintern endgültig.
 
 ## § 16: Freiwillige Auflösung des Vereins
-(1) Die freiwillige Auflösung des Vereins kann nur in einer Generalversammlung und nur
-mit Zweidrittelmehrheit der abgegebenen gültigen Stimmen beschlossen werden.
-(2) Die Generalversammlung hat - sofern Vereinsvermögen vorhanden ist - über die
-Abwicklung zu beschließen. Insbesondere hat sie eine Abwicklerin oder einen Abwickler
-zu berufen und Beschluss darüber zu fassen, wem diese/dieser das nach Abdeckung der
-Passiva verbleibende Vereinsvermögen zu übertragen hat.
-(3) Der letzte Vereinsvorstand hat die freiwillige Auflösung binnen vier Wochen nach Beschlussfassung der zuständigen Vereinsbehörde schriftlich anzuzeigen.
+1. Die freiwillige Auflösung des Vereins kann nur in einer Generalversammlung und nur mit Zweidrittelmehrheit der abgegebenen gültigen Stimmen beschlossen werden.
+2. Die Generalversammlung hat - sofern Vereinsvermögen vorhanden ist - über die Abwicklung zu beschließen. Insbesondere hat sie eine Abwicklerin oder einen Abwickler zu berufen und Beschluss darüber zu fassen, wem diese/dieser das nach Abdeckung der Passiva verbleibende Vereinsvermögen zu übertragen hat.
+3. Der letzte Vereinsvorstand hat die freiwillige Auflösung binnen vier Wochen nach Beschlussfassung der zuständigen Vereinsbehörde schriftlich anzuzeigen.
 
 ## § 17: Verwendung des Vereinsvermögens bei Ausscheiden von Mitgliedern, bei
 Auflösung des Vereins oder bei Wegfall des begünstigten Zwecks

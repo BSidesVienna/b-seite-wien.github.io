@@ -12,7 +12,7 @@ Der Verein, dessen Tätigkeit nicht auf Gewinn gerichtet ist, bezweckt das Berei
 
 ## § 3: Mittel zur Erreichung des Vereinszwecks
 
-1. Der Vereinszweck soll durch die in den Abs. 2 und 3 angeführten Tätigkeiten und finanziellen Mittel erreicht werden.
+1. Der Vereinszweck soll durch die in den Punkten 2 und 3 angeführten Tätigkeiten und finanziellen Mittel erreicht werden.
 2. Für die Verwirklichung des Vereinszweckes vorgesehene Tätigkeiten sind
     - Veranstaltungen und/oder Förderung internationaler Kongresse, Treffen sowie Konferenzen, Kunstprojekte und anderer Veranstaltungen.
     - Herausgabe von Informationswerken (on- & offline).
@@ -35,20 +35,21 @@ Der Verein, dessen Tätigkeit nicht auf Gewinn gerichtet ist, bezweckt das Berei
 
 ## § 4: Arten der Mitgliedschaft
 
-1. Die Mitglieder des Vereins gliedern sich in ordentliche, außerordentliche und Ehrenmitglieder.
-2. Ordentliche Mitglieder sind jene, die sich voll an der Vereinsarbeit beteiligen. Außerordentliche Mitglieder sind solche, die die Vereinstätigkeit vor allem durch Zahlung eines für sie festgesetzten Mitgliedsbeitrags fördern. Ehrenmitglieder sind Personen, die hierzu wegen besonderer Verdienste um den Verein ernannt werden.
+1. Die Mitglieder des Vereins gliedern sich in ordentliche, außerordentliche und Ehrenmitglieder:
+    - Ordentliche Mitglieder sind jene, die sich voll an der Vereinsarbeit beteiligen.
+    - Außerordentliche Mitglieder sind solche, die die Vereinstätigkeit vor allem durch Zahlung eines für sie festgesetzten Mitgliedsbeitrags fördern.
+    - Ehrenmitglieder sind Personen, die hierzu wegen besonderer Verdienste um den Verein ernannt werden.
 
 ## § 5: Erwerb der Mitgliedschaft
 
 1. Mitglieder des Vereins können alle physischen Personen sein.
 2. Über die Aufnahme von ordentlichen und außerordentlichen Mitgliedern entscheidet der Vorstand. Die Aufnahme kann ohne Angabe von Gründen verweigert werden.
-3. Bis zur Entstehung des Vereins erfolgt die vorläufige Aufnahme von ordentlichen und außerordentlichen Mitgliedern durch die die Vereinsgründerinnen/Vereinsgründer, im Fall eines bereits bestellten Vorstands durch diesen. Diese Mitgliedschaft wird erst mit Entstehung des Vereins wirksam. Wird ein Vorstand erst nach Entstehung des Vereins bestellt, erfolgt auch die (definitive) Aufnahme ordentlicher und außerordentlicher Mitglieder bis dahin durch die Gründerinnen/Gründer des Vereins.
-4. Die Ernennung zum Ehrenmitglied erfolgt auf Antrag des Vorstands durch die Generalversammlung.
+3. Die Ernennung zum Ehrenmitglied erfolgt auf Antrag des Vorstands durch die Generalversammlung.
 
 ## § 6: Beendigung der Mitgliedschaft
 
 1. Die Mitgliedschaft erlischt durch Tod, bei juristischen Personen durch Verlust der Rechtspersönlichkeit, durch freiwilligen Austritt und durch Ausschluss.
-2. Der Austritt kann nur zum Monatsende erfolgen. Erfolgt die Anzeige verspätet, so ist sie erst zum nächsten Austrittstermin wirksam. Für die Rechtzeitigkeit ist das Datum der Postaufgabe maßgeblich.
+2. Der Austritt kann jederzeit erfolgen; eine Rückerstattung eines bereits gezahlten Jahres- bzw. Monatsbeitrags erfolgt nicht. Der Austritt muss dem Vorstand schriftlich oder per E-Mail mitgeteilt werden.
 3. Der Vorstand kann ein Mitglied ausschließen, wenn dieses trotz zweimaliger schriftlicher Mahnung unter Setzung einer angemessenen Nachfrist länger als sechs Monate mit der Zahlung der Mitgliedsbeiträge im Rückstand ist. Die Verpflichtung zur Zahlung der fällig gewordenen Mitgliedsbeiträge bleibt hiervon unberührt.
 4. Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand auch wegen grober Verletzung anderer Mitgliedspflichten und wegen unehrenhaften Verhaltens verfügt werden.
 5. Die Aberkennung der Ehrenmitgliedschaft kann aus den im Abs. 4 genannten Gründen von der Generalversammlung über Antrag des Vorstands beschlossen werden.
@@ -87,15 +88,15 @@ Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§
 
 Der Generalversammlung sind folgende Aufgaben vorbehalten:
 
-- Beschlussfassung über den Voranschlag;
-- Entgegennahme und Genehmigung des Rechenschaftsberichts und des Rechnungsabschlusses unter Einbindung der Rechnungsprüferinnen/Rechnungsprüfer;
-- Wahl und Enthebung der Mitglieder des Vorstands und der Rechnungsprüferinnen/Rechnungsprüfer;
-- Genehmigung von Rechtsgeschäften zwischen Rechnungsprüferinnen/Rechnungsprüfer und Verein;
-- Entlastung des Vorstands;
-- Festsetzung der Höhe der Beitrittsgebühr und der Mitgliedsbeiträge für ordentliche und für außerordentliche Mitglieder;
-- Verleihung und Aberkennung der Ehrenmitgliedschaft;
-- Beschlussfassung über Statutenänderungen und die freiwillige Auflösung des Vereins;
-- Beratung und Beschlussfassung über sonstige auf der Tagesordnung stehende Fragen.
+1. Beschlussfassung über den Voranschlag;
+2. Entgegennahme und Genehmigung des Rechenschaftsberichts und des Rechnungsabschlusses unter Einbindung der Rechnungsprüferinnen/Rechnungsprüfer;
+3. Wahl und Enthebung der Mitglieder des Vorstands und der Rechnungsprüferinnen/Rechnungsprüfer;
+4. Genehmigung von Rechtsgeschäften zwischen Rechnungsprüferinnen/Rechnungsprüfer und Verein;
+5. Entlastung des Vorstands;
+6. Festsetzung der Höhe der Beitrittsgebühr und der Mitgliedsbeiträge für ordentliche und für außerordentliche Mitglieder;
+7. Verleihung und Aberkennung der Ehrenmitgliedschaft;
+8. Beschlussfassung über Statutenänderungen und die freiwillige Auflösung des Vereins;
+9. Beratung und Beschlussfassung über sonstige auf der Tagesordnung stehende Fragen.
 
 ## § 11: Vorstand
 
@@ -121,10 +122,11 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das "Leitungsorgan" im Sinn
 5. Verwaltung des Vereinsvermögens;
 6. Aufnahme und Ausschluss von ordentlichen und außerordentlichen Vereinsmitgliedern;
 7. Aufnahme und Kündigung von Angestellten des Vereins.
+8. Entscheidung über den Einsatz der materiellen und ideellen Mittel zur Erreichung des Vereinszwecks.
 
 ## § 13: Besondere Obliegenheiten einzelner Vorstandsmitglieder
 
-1. Der Verein wird vom Obmann und dem Kassier gemeinsam vertreten.  Im Verhinderungsfall werden sie durch ihre jeweiligen Stellvertreter vertreten.
+1. Der Verein wird vom Obmann und dem Kassier gemeinsam vertreten. Im Verhinderungsfall werden sie durch ihre jeweiligen Stellvertreter vertreten.
 2. Der Obmann führt den Vorsitz in der Mitgliederversammlung und im Vorstand, bei seiner Verhinderung sein Stellvertreter.
 3. Der Kassier ist für die ordnungsgemäße Geldgebarung des Vereins verantwortlich.
 

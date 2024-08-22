@@ -100,7 +100,7 @@ Der Generalversammlung sind folgende Aufgaben vorbehalten:
 
 ## § 11: Vorstand
 
-1. Der Vorstand besteht aus mindestens drei Mitgliedern, und zwar aus Obfrau/Obmann, Schriftführerin/Schriftführer sowie Kassierin/des Kassiers. Weitere Mitglieder des Vorstandes können in der Generalversammlung gewählt werden. Die Funktionsverteilung innerhalb des Vorstands obliegt dem Vorstand, der sich selbst eine Geschäftsordnung geben kann.
+1. Der Vorstand besteht aus mindestens drei Mitgliedern, und zwar aus Obfrau/Obmann, Schriftführerin/Schriftführer sowie Kassierin/Kassier. Weitere Mitglieder des Vorstandes können in der Generalversammlung gewählt werden. Die Funktionsverteilung innerhalb des Vorstands obliegt dem Vorstand, der sich selbst eine Geschäftsordnung geben kann.
 2. Der Vorstand wird von der Generalversammlung gewählt. Der Vorstand hat bei Ausscheiden eines gewählten Mitglieds das Recht, an seine Stelle ein anderes wählbares Mitglied zu kooptieren, wozu die nachträgliche Genehmigung in der nächstfolgenden Generalversammlung einzuholen ist. Fällt der Vorstand ohne Selbstergänzung durch Kooptierung überhaupt oder auf unvorhersehbar lange Zeit aus, so ist jede Rechnungsprüferin/jeder Rechnungsprüfer verpflichtet, unverzüglich eine außerordentliche Generalversammlung zum Zweck der Neuwahl eines Vorstands einzuberufen. Sollten auch die Rechnungsprüferinnen/Rechnungsprüfer handlungsunfähig sein, hat jedes ordentliche Mitglied, das die Notsituation erkennt, unverzüglich die Bestellung eines Kurators beim zuständigen Gericht zu beantragen, der umgehend eine außerordentliche Generalversammlung einzuberufen hat.
 3. Die Funktionsperiode des Vorstands beträgt 1 Jahr; Wiederwahl ist möglich. Jede Funktion im Vorstand ist persönlich auszuüben.
 4. Der Vorstand wird von der Obfrau/vom Obmann, bei Verhinderung von seiner Stellvertreterin/seinem Stellvertreter, schriftlich oder mündlich einberufen. Ist auch diese/dieser auf unvorhersehbar lange Zeit verhindert, darf jedes sonstige Vorstandsmitglied den Vorstand einberufen.
@@ -126,9 +126,14 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das "Leitungsorgan" im Sinn
 
 ## § 13: Besondere Obliegenheiten einzelner Vorstandsmitglieder
 
-1. Der Verein wird vom Obmann und dem Kassier gemeinsam vertreten. Im Verhinderungsfall werden sie durch ihre jeweiligen Stellvertreter vertreten.
-2. Der Obmann führt den Vorsitz in der Mitgliederversammlung und im Vorstand, bei seiner Verhinderung sein Stellvertreter.
-3. Der Kassier ist für die ordnungsgemäße Geldgebarung des Vereins verantwortlich.
+1. Der/die Obmann/Obfrau führt die laufenden Geschäfte des Vereins. Der/die Schriftführer/in unterstützt den/die Obmann/Obfrau bei der Führung der Vereinsgeschäfte.
+2. Der/die Obmann/Obfrau vertritt den Verein nach außen. Schriftliche Ausfertigungen des Vereins bedürfen zu ihrer Gültigkeit der Unterschriften des/der Obmanns/Obfrau und des Schriftführers/der Schriftführerin, in Geldangelegenheiten (vermögenswerte Dispositionen) des/der Obmanns/Obfrau und des Kassiers/der Kassierin. Rechtsgeschäfte zwischen Vorstandsmitgliedern und Verein bedürfen der Zustimmung eines anderen Vorstandsmitglieds.
+3. Rechtsgeschäftliche Bevollmächtigungen, den Verein nach außen zu vertreten bzw. für ihn zu zeichnen, können ausschließlich von den in Abs. 2 genannten Vorstandsmitgliedern erteilt werden.
+4. Bei Gefahr im Verzug ist der/die Obmann/Obfrau berechtigt, auch in Angelegenheiten, die in den Wirkungsbereich der Generalversammlung oder des Vorstands fallen, unter eigener Verantwortung selbständig Anordnungen zu treffen; im Innenverhältnis bedürfen diese jedoch der nachträglichen Genehmigung durch das zuständige Vereinsorgan.
+5. Der/die Obmann/Obfrau führt den Vorsitz in der Generalversammlung und im Vorstand.
+6. Der/die Schriftführer/in führt die Protokolle der Generalversammlung und des Vorstands.
+7. Der/die Kassier/in ist für die ordnungsgemäße Geldgebarung des Vereins verantwortlich.
+8. Im Fall der Verhinderung treten an die Stelle des/der Obmanns/Obfrau, des Schriftführers/der Schriftführerin oder des Kassiers/der Kassierin ihre Stellvertreter/innen.
 
 ## § 14: Rechnungsprüferin/Rechnungsprüfer
 
